@@ -1,5 +1,8 @@
 # openci
 
+api来自https://github.com/anasfik/openai。@MIT  
+目前未上传基本源代码你无法从源代码构建
+
 Use this app to enjoy the power of ai. Our goal is to make technology more inclusive and fair, so that more people can enjoy the convenience brought by technology.
 
 ## Getting Started
