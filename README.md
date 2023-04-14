@@ -1,5 +1,7 @@
 # openci
 
+这是非官方的  This is unofficial and has nothing to do with openai official
+
 api来自https://github.com/anasfik/openai。@MIT  
 目前未上传基本源代码你无法从源代码构建
 
